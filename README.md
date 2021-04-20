@@ -3,7 +3,7 @@
 
 #Scrum Master:Zachary Beaulieu
 
-#Team Members:
+#Team Members: Ella Costigan
 
 #Project Idea: With COVID came many restaurants not being able to operate in traditional ways. With everything transitioning to online ordering options, many old school restaurants didn’t have a website nevermind an online ordering system in place. We brainstormed to make an app that allows restaurants to easily load in their menu and prices, and allow customers to select their items, place their order, and even checkout with google pay. The menu and orders will be stored in a firebase, working on an android app, with google pay added on.
 #We are going to use android studio to display the menu and prices and use firebase to allow customers to create an account and save their information to a firebase console. With there information saved we will be able to keep track of the things they order and save their information so it will be easier for them to order again next time because they would have to sign in. 
